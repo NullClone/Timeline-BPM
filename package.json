@@ -1,0 +1,19 @@
+{
+  "name": "com.null.timeline-bpm",
+  "version": "1.0.0",
+  "displayName": "Timeline BPM",
+  "description": "Unity Timeline上でBPMに基づいたビートおよび小節グリッドを表示し、クリップやマーカーのスナップを可能にする拡張トラックです。",
+  "unity": "2021.2",
+  "unityRelease": "0b1",
+  "dependencies": {
+    "com.unity.timeline": "1.8.0"
+  },
+  "keywords": [
+    "timeline",
+    "bpm",
+    "grid",
+    "snap",
+    "music",
+    "rhythm"
+  ]
+}
